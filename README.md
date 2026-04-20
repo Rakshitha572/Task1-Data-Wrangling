@@ -1,4 +1,4 @@
-# Data Cleaning & Wrangling Project 2
+# Data Cleaning & Wrangling
 
 ## Objective
 To clean and prepare Adidas sales dataset for analysis.
